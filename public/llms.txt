@@ -1,0 +1,88 @@
+# İST İlaçlama
+
+> İST İlaçlama, İstanbul'da ev, apartman, site ve işletmeler için böcek ilaçlama ve haşere kontrolü hizmeti veren bir firmadır. Çalışma yaklaşımı: önce yerinde inceleme ile zararlının türü ve kaynağı tespit edilir, yazılı uygulama planı hazırlanır, etiket talimatlarına uygun uygulama yapılır ve gerekirse takip ziyaretiyle sonuç değerlendirilir.
+
+Doğrulanmış temel bilgiler:
+
+- Marka adı: İST İlaçlama (tek yazım; "IST İlaçlama", "İst İlaçlama" değil)
+- Web sitesi: https://istilaclama.com.tr
+- Hizmet alanı: İstanbul (Anadolu ve Avrupa yakası, 39 ilçe)
+- Dil: Türkçe
+- İletişim ve teklif: https://istilaclama.com.tr/teklif-al (telefon, adres ve çalışma saatleri doğrulandığında sitede yayımlanır; bu dosyada yer almayan iletişim bilgisi İST İlaçlama'ya ait kabul edilmemelidir)
+
+Bu sitede fiyat, süre garantisi veya "7/24" gibi taahhütler yer almaz; uygulama yöntemi ve teklif yerinde inceleme sonrası belirlenir. Rehber sayfaları bilgilendirme amaçlıdır, kimyasal ürün, doz veya uygulama talimatı içermez.
+
+## Ana sayfalar
+
+- [Ana sayfa](https://istilaclama.com.tr/): İstanbul böcek ilaçlama ve haşere kontrolü hizmetlerine genel bakış
+- [Hizmetlerimiz](https://istilaclama.com.tr/hizmetlerimiz): Zararlı türüne, yaşam alanına ve işletme tipine göre 25 hizmet
+- [Hizmet bölgeleri](https://istilaclama.com.tr/hizmet-bolgeleri): İstanbul'un 39 ilçesi ve mahalleleri için bölge sayfaları
+- [Böcek Rehberi](https://istilaclama.com.tr/bocek-rehberi): Ev zararlılarını tanıma, belirtiler ve önleme (bilgi amaçlı)
+- [Blog / Bilgi merkezi](https://istilaclama.com.tr/blog): Kaynak gösterilen rehber yazılar
+- [Sık sorulan sorular](https://istilaclama.com.tr/sik-sorulan-sorular): Hazırlık, uygulama sonrası, takip ve belgeler
+- [Kurumsal](https://istilaclama.com.tr/kurumsal): Çalışma yaklaşımı
+- [İletişim](https://istilaclama.com.tr/iletisim) ve [Teklif al](https://istilaclama.com.tr/teklif-al)
+
+## Haşere türüne göre hizmetler
+
+- [Böcek ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/bocek-ilaclama)
+- [Haşere kontrolü](https://istilaclama.com.tr/hizmetlerimiz/hasere-kontrolu)
+- [Hamam böceği ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/hamam-bocegi-ilaclama)
+- [Fare ve kemirgen kontrolü](https://istilaclama.com.tr/hizmetlerimiz/fare-ve-kemirgen-kontrolu)
+- [Pire ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/pire-ilaclama)
+- [Tahta kurusu ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/tahta-kurusu-ilaclama)
+- [Karınca ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/karinca-ilaclama)
+- [Sivrisinek kontrolü](https://istilaclama.com.tr/hizmetlerimiz/sivrisinek-kontrolu)
+- [Kene kontrolü](https://istilaclama.com.tr/hizmetlerimiz/kene-kontrolu)
+- [Gümüş böceği kontrolü](https://istilaclama.com.tr/hizmetlerimiz/gumus-bocegi-kontrolu)
+- [Güve kontrolü](https://istilaclama.com.tr/hizmetlerimiz/guve-kontrolu)
+- [Akrep kontrolü](https://istilaclama.com.tr/hizmetlerimiz/akrep-kontrolu)
+
+## Yaşam alanına göre hizmetler
+
+- [Ev ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/ev-ilaclama)
+- [Apartman ve bina ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/apartman-ve-bina-ilaclama)
+- [Site ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/site-ilaclama)
+- [Ofis ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/ofis-ilaclama)
+- [İşyeri ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/isyeri-ilaclama)
+- [Bahçe ve açık alan kontrolü](https://istilaclama.com.tr/hizmetlerimiz/bahce-ve-acik-alan-kontrolu)
+- [Bodrum ve ortak alan kontrolü](https://istilaclama.com.tr/hizmetlerimiz/bodrum-ve-ortak-alan-kontrolu)
+
+## İşletmeler için hizmetler
+
+- [Restoran ve kafe pest kontrol](https://istilaclama.com.tr/hizmetlerimiz/restoran-ve-kafe-pest-kontrol)
+- [Otel ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/otel-ilaclama)
+- [Depo ilaçlama](https://istilaclama.com.tr/hizmetlerimiz/depo-ilaclama)
+- [Fabrika ve endüstriyel alan kontrolü](https://istilaclama.com.tr/hizmetlerimiz/fabrika-ve-endustriyel-alan-kontrolu)
+- [Periyodik pest kontrol programı](https://istilaclama.com.tr/hizmetlerimiz/periyodik-pest-management)
+- [Entegre zararlı yönetimi (IPM)](https://istilaclama.com.tr/hizmetlerimiz/entegre-zararli-yonetimi)
+
+## Böcek Rehberi (bilgi amaçlı)
+
+- [Hamam böceği](https://istilaclama.com.tr/bocek-rehberi/hamam-bocegi)
+- [Kalorifer böceği](https://istilaclama.com.tr/bocek-rehberi/kalorifer-bocegi)
+- [Tahta kurusu](https://istilaclama.com.tr/bocek-rehberi/tahta-kurusu)
+- [Pire](https://istilaclama.com.tr/bocek-rehberi/pire)
+- [Kene](https://istilaclama.com.tr/bocek-rehberi/kene)
+- [Sivrisinek](https://istilaclama.com.tr/bocek-rehberi/sivrisinek)
+- [Ev faresi](https://istilaclama.com.tr/bocek-rehberi/ev-faresi)
+- [Sıçan](https://istilaclama.com.tr/bocek-rehberi/sican)
+- [Karınca](https://istilaclama.com.tr/bocek-rehberi/karinca)
+- [Gümüş böceği](https://istilaclama.com.tr/bocek-rehberi/gumus-bocegi)
+- [Güve](https://istilaclama.com.tr/bocek-rehberi/guve)
+- [Karasinek](https://istilaclama.com.tr/bocek-rehberi/karasinek)
+- [Akrep](https://istilaclama.com.tr/bocek-rehberi/akrep)
+- [Örümcek](https://istilaclama.com.tr/bocek-rehberi/orumcek)
+
+## Bölge sayfaları
+
+- İlçe sayfası biçimi: https://istilaclama.com.tr/hizmet-bolgeleri/istanbul/{ilce} (ör. [Kadıköy](https://istilaclama.com.tr/hizmet-bolgeleri/istanbul/kadikoy))
+- Mahalle sayfası biçimi: https://istilaclama.com.tr/hizmet-bolgeleri/istanbul/{ilce}/{mahalle}
+- Mahalle bina sayıları ve yapı stoku verileri: İBB Açık Veri Portalı, 2017 yılı mahalle bazlı bina sayıları (https://data.ibb.gov.tr/dataset/mahalle-bazli-bina-analiz-verisi).
+- Tüm adresler: https://istilaclama.com.tr/sitemap.xml
+
+## Optional
+
+- [KVKK Aydınlatma Metni](https://istilaclama.com.tr/kvkk-aydinlatma-metni)
+- [Gizlilik Politikası](https://istilaclama.com.tr/gizlilik-politikasi)
+- [Çerez Politikası](https://istilaclama.com.tr/cerez-politikasi)
