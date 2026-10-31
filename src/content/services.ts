@@ -40,7 +40,7 @@ const s = (
   icon,
   excerpt,
   featured,
-  status: "draft",
+  status: "published",
   imageKey: `service-${slug}`,
 });
 

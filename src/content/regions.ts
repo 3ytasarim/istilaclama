@@ -23,7 +23,7 @@ const make = (name: string, side: Region["side"]): Region => ({
   side,
   slug: slugify(name),
   active: false,
-  status: "draft",
+  status: "published",
 });
 
 export const istanbulDistricts: Region[] = [

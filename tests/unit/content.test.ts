@@ -21,8 +21,8 @@ describe("İstanbul ilçeleri", () => {
     expect(new Set(istanbulDistricts.map((d) => d.slug)).size).toBe(39);
     expect(istanbulDistricts.filter((d) => d.side === "anadolu")).toHaveLength(14);
   });
-  it("hiçbir ilçe varsayılan olarak aktif/yayında değil", () => {
-    expect(istanbulDistricts.every((d) => !d.active && d.status === "draft")).toBe(true);
+  it("ilçe sayfaları yayında; hizmet kapsamı doğrulanana kadar hiçbiri 'aktif' değil", () => {
+    expect(istanbulDistricts.every((d) => !d.active && d.status === "published")).toBe(true);
   });
 });
 
